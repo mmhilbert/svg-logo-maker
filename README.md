@@ -28,6 +28,10 @@ Before running this application, ensure you have Node.js installed on your syste
     ```bash
     npm install
 
+## Credits 
+[GItHub Repo](https://github.com/mmhilbert/svg-logo-maker)
+[Application Video](https://drive.google.com/file/d/1Nw4gG0vMvQpeMKBJYYWMHAUX1yNzASPN/view)
+
 ## Licence
 This project is licensed under the MIT License
 
