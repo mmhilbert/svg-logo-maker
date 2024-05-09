@@ -29,7 +29,7 @@ Before running this application, ensure you have Node.js installed on your syste
     npm install
 
 ## Credits 
-[GItHub Repo](https://github.com/mmhilbert/svg-logo-maker) <br>
+[GitHub Repo](https://github.com/mmhilbert/svg-logo-maker) <br>
 [Application Video](https://drive.google.com/file/d/1yeGAUh20oKVI4yPhhioi46YxJd4KM3Yr/view)
 
 ## Licence
