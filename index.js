@@ -41,7 +41,6 @@ function init() {
     .prompt(questions)
     .then((answers) => {
         let type;
-        console.log(answers.shape); 
         switch(answers.shape) { 
             case 'Circle':
                 type = new Circle();
