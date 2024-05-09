@@ -29,7 +29,7 @@ const questions = [
 
 // Create SVG file
 function writeToFile(content) {
-    fs.writeFile('./logo.svg', content, (err) => {
+    fs.writeFile('./examples/logo.svg', content, (err) => {
         if (err) throw err
         console.log('Sucessfully generated logo.svg!')
     })
